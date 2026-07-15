@@ -3,9 +3,7 @@
 <p align="center">
   <a href="#about-the-project">About</a> •
   <a href="#analysis-stages">Analysis Stages</a> •
-  <a href="#key-findings">Key Findings</a> •
-  <a href="#how-to-run">How to Run</a> •
-  <a href="#versão-em-português">Versão em Português</a>
+  <a href="#key-findings">Key Findings</a> 
 </p>
 
 ---
