@@ -1,6 +1,10 @@
 # FIFA World Cup (1930-2014) - Exploratory Data Analysis (EDA)
 
 <p align="center">
+  <img width="25%" src="https://img.shields.io/badge/FiasaScript-057019.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+</p>
+
+<p align="center">
   <a href="#about-the-project">About</a> •
   <a href="#analysis-stages">Analysis Stages</a> •
   <a href="#key-findings">Key Findings</a> 
